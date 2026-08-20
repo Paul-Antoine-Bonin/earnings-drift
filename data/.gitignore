@@ -1,0 +1,3 @@
+# Data pulled from yfinance is not versioned: it is re-derivable and large.
+*
+!.gitignore

@@ -11,7 +11,7 @@ The question: is that still true today?
 - If the depth is insufficient, document the limitation rather than hiding it.
 
 ## Steps
-- [ ] Set up repo and dependencies
+- [x] Set up repo and dependencies
 - [ ] Collect the (estimated EPS, reported EPS) pairs and compute the standardised surprise
 - [ ] Pull the prices around each announcement (D-5 to D+60)
 - [ ] Compute cumulative abnormal returns, net of the index return
