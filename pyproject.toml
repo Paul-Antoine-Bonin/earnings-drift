@@ -12,6 +12,7 @@ dependencies = [
     "pandas>=2.0",
     "matplotlib>=3.7",
     "yfinance>=0.2.40",
+    "lxml>=4.9",
 ]
 
 [project.optional-dependencies]

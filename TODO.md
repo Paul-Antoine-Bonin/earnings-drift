@@ -12,7 +12,7 @@ The question: is that still true today?
 
 ## Steps
 - [x] Set up repo and dependencies
-- [ ] Collect the (estimated EPS, reported EPS) pairs and compute the standardised surprise
+- [x] Collect the (estimated EPS, reported EPS) pairs and compute the standardised surprise
 - [ ] Pull the prices around each announcement (D-5 to D+60)
 - [ ] Compute cumulative abnormal returns, net of the index return
 - [ ] Sort the events into surprise deciles
